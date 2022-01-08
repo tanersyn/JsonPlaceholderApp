@@ -1,2 +1,3 @@
 # JsonPlaceholderApp
-![index html](https://user-images.githubusercontent.com/50462952/148650053-3db7dd92-ae4f-4843-9573-25ff7f59f35e.png)
+
+![index](https://user-images.githubusercontent.com/50462952/148650097-d3d5e62c-bacc-40d7-bc0c-a08eefeec3a5.png)
